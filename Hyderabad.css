@@ -13,7 +13,19 @@
     font-weight: bold;
     padding: 24px;
 }
-
+.btn{
+    color: #fff;
+    height: 30px;
+    width: 60px;
+    border-radius: 8px;
+    border: 0px;
+}
+.btn-dark{
+    background-color : #333;
+}
+.btn-light{
+    background-color : #005B8F;
+}
 .detailed-view-card-container {
     background-color: white;
     border-bottom-right-radius: 8px;
